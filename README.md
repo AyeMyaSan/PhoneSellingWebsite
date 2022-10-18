@@ -1,17 +1,14 @@
 # PhoneSellingWebsite
 + When ADMIN login:
 
-Admin can add new products to stores database which can be retrieved and
-validation are performed during the entry of the data. Thus, it ensures 
-that the user cannot enter any wrong data which would cause problem later.
+  +  Admin can add new products to stores database which can be retrieved and validation are performed during the entry of the data. Thus, it ensures that the user cannot enter any wrong data which would cause problem later.
 
 + When User signup and login: 
-This system allows user to access all the products available. To buy
-the products, customer must create an account in this website.
+  +  This system allows user to access all the products available. To buy the products, customer must create an account in this website.
 
-  +  Language : HTML, CSS, PHP, Javascript
++  Language : HTML, CSS, PHP, Javascript
 
-  +  Tool : Xampp (Apache, MySQL), Postgres
++  Tool : Xampp (Apache, MySQL), Postgres
 ------------------------
      
 ## Welcome Page 
