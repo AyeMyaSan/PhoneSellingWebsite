@@ -34,7 +34,7 @@ This product’s detail page shows the details information of product selected b
 ## Shopping Cart Page
 This shopping cart page shows the list of products that the user wants to buy. In this page, user can increase the quantity of product they want. The user can also view the unit price, subtotal price, and total price. The user can delete the products that they don’t want to buy anymore. If user done selection product and adding product into cart, user needs to click “CheckOut” button to order the products in the cart. The user needs to log in to view this page
 
-![shoppingcart](https://user-images.githubusercontent.com/104755767/196334632-69e728a5-9294-4c58-9088-ea2a5aaa9a2a.jpg)
+![newshoppinkg](https://user-images.githubusercontent.com/104755767/196344055-a265aba4-291a-4ed9-a0c4-ec403e1942d4.jpg)
 
 ## Billing Address Page
 When user clicks “CheckOut” button in Figure 4.8, the user needs to fill information about them including name, email, phone number and address.
@@ -63,7 +63,6 @@ admin can add the new products by filling the required fields. In figure 4.12, a
 admin can view the list of order received by customers. The list shows order id, customer name, customer phone number, product model, total quantity of ordered products, total price and date of order. The field status describes the condition of order pending, order confirmed and order delivered
 ![cusorders](https://user-images.githubusercontent.com/104755767/196335432-5d9080a9-a735-44d0-8e2c-5987d394d733.jpg)
 ![orderdetail](https://user-images.githubusercontent.com/104755767/196335436-9dbb7fb5-369f-47d5-b7ba-31fea9fb9dd7.jpg)
-
 
 
 
